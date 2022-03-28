@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @piyu-Dev...click on Stars----------------------------------up here
+- 👋 Hi, I’m @piyu-Dev...
 - 👀 I’m interested in Python Programming
 - 🌱 I’m currently learning CS
 - 💞️ I’m looking to collaborate on making projects
